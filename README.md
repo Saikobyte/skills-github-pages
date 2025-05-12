@@ -12,7 +12,7 @@
 _SHARING THOUGHTS AND THE TRUTH WITH THE WORLD._
 
 </header>
-
+<body bgcolor-"yellow">
 <!--
   <<< Author notes: Step 1 >>>
   Choose 3-5 steps for your course.
@@ -38,5 +38,5 @@ As an independent blogger based in Baltimore, Maryland, I endeavor to document t
 Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/github-pages) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
 
 &copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
-
+</body>
 </footer>
